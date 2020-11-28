@@ -1,4 +1,4 @@
-%% Bu fonksiyon MATLAB'in sayfasýndan hazýr olarak alýnýp kullanýlmýþtýr.
+%% This function has been taken and used as a ready-made from MATLAB's page..
 function output = zigzag(in)
 % initializing the variables
 %----------------------------------
